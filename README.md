@@ -43,3 +43,5 @@ Created by Sheik Akshar
 GitHub: aksharsheik
 
 LinkedIn: https://www.linkedin.com/in/akshar-sheik-8020662bb/
+
+🔗 Live Web App: https://simple-interest-ffjdxnddnfaief55sqojte.streamlit.app/
